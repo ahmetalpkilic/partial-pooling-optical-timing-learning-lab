@@ -1,0 +1,60 @@
+{
+  "retrieved_at": "2026-10-09T20:24:11.117456+00:00",
+  "sources": [
+    {
+      "repository": "brandondube/prysm",
+      "commit": "5008f47803af6ff69eed474fca049456076e4a7d",
+      "commit_date": "2026-07-26T02:06:10Z",
+      "activity": "geometry,segmented: use signed distance functions to draw segment apertures and composite",
+      "pushed_at": "2026-07-26T02:06:40Z",
+      "archived": false,
+      "license": "MIT",
+      "license_url": "https://raw.githubusercontent.com/brandondube/prysm/5008f47803af6ff69eed474fca049456076e4a7d/LICENSE.md",
+      "license_file": "licenses/brandondube-prysm-LICENSE.txt"
+    },
+    {
+      "repository": "scipy/scipy",
+      "commit": "ecee36d388004b86bdf56bf3fd7498006cddda96",
+      "commit_date": "2026-10-09T00:28:33Z",
+      "activity": "TST: stats.UnivariateDistribution: eliminate hypothesis from tests, refactor for control, and prepare for Array API (#26161)",
+      "pushed_at": "2026-10-09T00:28:33Z",
+      "archived": false,
+      "license": "BSD-3-Clause",
+      "license_url": "https://raw.githubusercontent.com/scipy/scipy/ecee36d388004b86bdf56bf3fd7498006cddda96/LICENSE.txt",
+      "license_file": "licenses/scipy-scipy-LICENSE.txt"
+    },
+    {
+      "repository": "numpy/numpy",
+      "commit": "4530cd44016be1d1c3dafd3bae584c01830114ab",
+      "commit_date": "2026-10-09T19:31:12Z",
+      "activity": "DOC: clarify fromstring requires sep argument (#32798)",
+      "pushed_at": "2026-10-09T19:31:12Z",
+      "archived": false,
+      "license": "BSD-3-Clause",
+      "license_url": "https://raw.githubusercontent.com/numpy/numpy/4530cd44016be1d1c3dafd3bae584c01830114ab/LICENSE.txt",
+      "license_file": "licenses/numpy-numpy-LICENSE.txt"
+    },
+    {
+      "repository": "matplotlib/matplotlib",
+      "commit": "24f093e40a1a248fc74354c608852e93f87096f9",
+      "commit_date": "2026-10-09T19:02:14Z",
+      "activity": "Merge pull request #32449 from timhoffm/doc-reorder-rcparams",
+      "pushed_at": "2026-10-09T19:25:21Z",
+      "archived": false,
+      "license": "Matplotlib license agreement",
+      "license_url": "https://raw.githubusercontent.com/matplotlib/matplotlib/24f093e40a1a248fc74354c608852e93f87096f9/LICENSE/LICENSE",
+      "license_file": "licenses/matplotlib-matplotlib-LICENSE.txt"
+    },
+    {
+      "repository": "ahmetalpkilic/held-out-covariance-validation-learning-lab",
+      "commit": "37fb0928667a058cbc41e26998d3e38c69a2ec36",
+      "commit_date": "2026-10-08T22:08:37Z",
+      "activity": "Add held-out covariance tests and independent optical delay evaluation",
+      "pushed_at": "2026-10-08T22:08:43Z",
+      "archived": false,
+      "license": "MIT",
+      "license_url": "https://raw.githubusercontent.com/ahmetalpkilic/held-out-covariance-validation-learning-lab/37fb0928667a058cbc41e26998d3e38c69a2ec36/LICENSE",
+      "license_file": "licenses/ahmetalpkilic-held-out-covariance-validation-learning-lab-LICENSE.txt"
+    }
+  ]
+}

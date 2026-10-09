@@ -1,0 +1,269 @@
+{
+  "seed": 20261009,
+  "trials": 300,
+  "training_pairs": 240,
+  "validation_pairs": 240,
+  "equal_total_pairs": 480,
+  "evaluation_pairs": 40,
+  "failed_fits": 0,
+  "sigma_px": 0.35014087480216977,
+  "center_sd_px": 0.00028197899781663493,
+  "rows": [
+    {
+      "q": 1.0,
+      "selection_counts": {
+        "0.0": 0,
+        "0.25": 0,
+        "0.5": 0,
+        "0.75": 34,
+        "1.0": 266
+      },
+      "methods": {
+        "known_covariance": {
+          "rmse_ms": 21.036501320350624,
+          "bias_ms": 0.5213264144656781,
+          "sd_ms": 21.065178511541365,
+          "mean_error_mcse_ms": 1.2161986484165925,
+          "successful_trials": 300
+        },
+        "pool_12": {
+          "rmse_ms": 21.014666673808808,
+          "bias_ms": 0.537276137892678,
+          "sd_ms": 21.042898128229833,
+          "mean_error_mcse_ms": 1.2149122898863365,
+          "successful_trials": 300
+        },
+        "event_12": {
+          "rmse_ms": 23.42905010449111,
+          "bias_ms": -0.042587869039121005,
+          "sd_ms": 23.468157642842996,
+          "mean_error_mcse_ms": 1.3549347132479976,
+          "successful_trials": 300
+        },
+        "pool_6": {
+          "rmse_ms": 21.019200568626214,
+          "bias_ms": 0.5513630461155505,
+          "sd_ms": 21.047075552196027,
+          "mean_error_mcse_ms": 1.2151534735714766,
+          "successful_trials": 300
+        },
+        "event_6": {
+          "rmse_ms": 26.51219400340188,
+          "bias_ms": 0.05946059359984645,
+          "sd_ms": 26.556424979103078,
+          "mean_error_mcse_ms": 1.5332359110399263,
+          "successful_trials": 300
+        },
+        "tuned_6_plus_6": {
+          "rmse_ms": 21.0429918982406,
+          "bias_ms": 0.5679896492845817,
+          "sd_ms": 21.070471717128996,
+          "mean_error_mcse_ms": 1.2165042517836822,
+          "successful_trials": 300
+        }
+      },
+      "paired_risk": {
+        "pool_12": {
+          "mse_difference_ms2": 1.1912926181289276,
+          "mcse_ms2": 1.9945279968652099
+        },
+        "event_12": {
+          "mse_difference_ms2": -106.11288076933556,
+          "mcse_ms2": 27.77910751046264
+        }
+      }
+    },
+    {
+      "q": 1.5,
+      "selection_counts": {
+        "0.0": 0,
+        "0.25": 0,
+        "0.5": 16,
+        "0.75": 208,
+        "1.0": 76
+      },
+      "methods": {
+        "known_covariance": {
+          "rmse_ms": 25.232555011570955,
+          "bias_ms": 0.6484656986949316,
+          "sd_ms": 25.26636675396875,
+          "mean_error_mcse_ms": 1.4587543646847667,
+          "successful_trials": 300
+        },
+        "pool_12": {
+          "rmse_ms": 26.860910506660392,
+          "bias_ms": 0.6606169487911377,
+          "sd_ms": 26.897652515848534,
+          "mean_error_mcse_ms": 1.5529366920594165,
+          "successful_trials": 300
+        },
+        "event_12": {
+          "rmse_ms": 28.250398076817948,
+          "bias_ms": 0.07265316680376628,
+          "sd_ms": 28.29750653212786,
+          "mean_error_mcse_ms": 1.633757301371921,
+          "successful_trials": 300
+        },
+        "pool_6": {
+          "rmse_ms": 26.85532773525358,
+          "bias_ms": 0.6487489881891044,
+          "sd_ms": 26.892348612530355,
+          "mean_error_mcse_ms": 1.5526304710585659,
+          "successful_trials": 300
+        },
+        "event_6": {
+          "rmse_ms": 31.742689090877885,
+          "bias_ms": 0.2047541814801976,
+          "sd_ms": 31.79506471523725,
+          "mean_error_mcse_ms": 1.8356889172243795,
+          "successful_trials": 300
+        },
+        "tuned_6_plus_6": {
+          "rmse_ms": 26.455720699908014,
+          "bias_ms": 0.5146790668248183,
+          "sd_ms": 26.494908892094376,
+          "mean_error_mcse_ms": 1.5296842781005295,
+          "successful_trials": 300
+        }
+      },
+      "paired_risk": {
+        "pool_12": {
+          "mse_difference_ms2": -21.60335549527725,
+          "mcse_ms2": 12.489186120895988
+        },
+        "event_12": {
+          "mse_difference_ms2": -98.17983374713806,
+          "mcse_ms2": 45.2467207759154
+        }
+      }
+    },
+    {
+      "q": 2.0,
+      "selection_counts": {
+        "0.0": 0,
+        "0.25": 14,
+        "0.5": 181,
+        "0.75": 100,
+        "1.0": 5
+      },
+      "methods": {
+        "known_covariance": {
+          "rmse_ms": 27.408243687516368,
+          "bias_ms": 0.7042460933839664,
+          "sd_ms": 27.444974309645314,
+          "mean_error_mcse_ms": 1.5845363305576083,
+          "successful_trials": 300
+        },
+        "pool_12": {
+          "rmse_ms": 33.4261060836246,
+          "bias_ms": 0.7901477546722018,
+          "sd_ms": 33.47260000272841,
+          "mean_error_mcse_ms": 1.9325414622051915,
+          "successful_trials": 300
+        },
+        "event_12": {
+          "rmse_ms": 30.69364802944661,
+          "bias_ms": 0.16886016161813444,
+          "sd_ms": 30.744467086879617,
+          "mean_error_mcse_ms": 1.7750326348701535,
+          "successful_trials": 300
+        },
+        "pool_6": {
+          "rmse_ms": 33.4130289495449,
+          "bias_ms": 0.7490058188087926,
+          "sd_ms": 33.4604467821744,
+          "mean_error_mcse_ms": 1.9318397956893536,
+          "successful_trials": 300
+        },
+        "event_6": {
+          "rmse_ms": 34.29558029920621,
+          "bias_ms": 0.37628811892483593,
+          "sd_ms": 34.35081508446947,
+          "mean_error_mcse_ms": 1.9832452335901503,
+          "successful_trials": 300
+        },
+        "tuned_6_plus_6": {
+          "rmse_ms": 30.663216014214484,
+          "bias_ms": 0.2029301022751626,
+          "sd_ms": 30.713776865424748,
+          "mean_error_mcse_ms": 1.7732607341083078,
+          "successful_trials": 300
+        }
+      },
+      "paired_risk": {
+        "pool_12": {
+          "mse_difference_ms2": -177.07175157934597,
+          "mcse_ms2": 40.22991950509205
+        },
+        "event_12": {
+          "mse_difference_ms2": -1.8672130211720195,
+          "mcse_ms2": 59.39738876520926
+        }
+      }
+    },
+    {
+      "q": 4.0,
+      "selection_counts": {
+        "0.0": 4,
+        "0.25": 285,
+        "0.5": 11,
+        "0.75": 0,
+        "1.0": 0
+      },
+      "methods": {
+        "known_covariance": {
+          "rmse_ms": 30.111091963496516,
+          "bias_ms": 0.7384066394388294,
+          "sd_ms": 30.152332558716168,
+          "mean_error_mcse_ms": 1.7408457319469894,
+          "successful_trials": 300
+        },
+        "pool_12": {
+          "rmse_ms": 62.58362482812646,
+          "bias_ms": 1.3646484854272782,
+          "sd_ms": 62.673287513085675,
+          "mean_error_mcse_ms": 3.6184439416678824,
+          "successful_trials": 300
+        },
+        "event_12": {
+          "rmse_ms": 33.50888684627754,
+          "bias_ms": 0.37964741326185136,
+          "sd_ms": 33.562720682082876,
+          "mean_error_mcse_ms": 1.9377445820536767,
+          "successful_trials": 300
+        },
+        "pool_6": {
+          "rmse_ms": 62.591709668775195,
+          "bias_ms": 1.1523328230158663,
+          "sd_ms": 62.68566468378614,
+          "mean_error_mcse_ms": 3.619158537951454,
+          "successful_trials": 300
+        },
+        "event_6": {
+          "rmse_ms": 37.04629334453171,
+          "bias_ms": 0.9166216571535991,
+          "sd_ms": 37.096831468334756,
+          "mean_error_mcse_ms": 2.141786563432525,
+          "successful_trials": 300
+        },
+        "tuned_6_plus_6": {
+          "rmse_ms": 38.53124489193997,
+          "bias_ms": -0.40416295209148606,
+          "sd_ms": 38.59350134913162,
+          "mean_error_mcse_ms": 2.2281968392891325,
+          "successful_trials": 300
+        }
+      },
+      "paired_risk": {
+        "pool_12": {
+          "mse_difference_ms2": -2432.0532637050374,
+          "mcse_ms2": 264.14555606780374
+        },
+        "event_12": {
+          "mse_difference_ms2": 361.81133524601773,
+          "mcse_ms2": 96.25169708803868
+        }
+      }
+    }
+  ]
+}
